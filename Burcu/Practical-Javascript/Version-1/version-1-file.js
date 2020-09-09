@@ -7,4 +7,4 @@ todos.push("item4");
 //It should have a way to change a todo
 todos[0]="changed item"
 //It should have a way to delete a todo
-todos.splice(0,1);
+todos.splice(0,1); //starting from 0 index, 1 number of elements
